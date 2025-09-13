@@ -1,0 +1,10 @@
+- [x] Eat
+- [x] Set a timer to train
+- [x] Call mom
+- [x] Send Mala the headphones for her to decide
+- [x] Send Vipi the fridges for her to decide.
+- [x] Complete Obsidian's tutorials 1
+- [ ] Complete Obsidian's tutorials 2
+- [ ] Set up vault on github
+- [ ] Plan an execution plan order for the workload during the entire semester.
+- [ ] There's homework on BDA, Exercise 1.2 from the slides.
