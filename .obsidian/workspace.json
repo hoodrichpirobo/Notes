@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4913de5e036d573e",
+        "id": "4f0480b8f2e54d72",
         "type": "tabs",
         "children": [
           {
             "id": "89053560423bcc34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/CPA S1. Introduction to Parallel Programming Enviroments..md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CPA S1. Introduction to Parallel Programming Enviroments."
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b08d92ac4eb6e4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1384542af10ba71",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,33 +184,35 @@
   },
   "active": "89053560423bcc34",
   "lastOpenFiles": [
-    "TSR Concepts..md",
-    "TO DO.md",
-    "SIN Concepts..md",
-    "ISW Concepts.md",
-    "ISW C1. Introduction to Software Engineering.md",
-    "How far am I on Dabi's tutorial.md",
-    "Guia docente asignaturas.md",
-    "FSO UT0. Concepto de sistema operativo..md",
-    "FSO Concepts.md",
-    "CPA S1. Introduction to Parallel Programming Enviroments..md",
-    "CPA Concepts..md",
-    "BDA Concepts..md",
-    "BDA 1.2. The Relational Data Model.md",
-    "BDA 1.1 Relational Databases..md",
-    "AIC Concepts.md",
-    "AIC 1.2. Performance Analysis..md",
-    "AIC 1.1. Concept of Computer Architecture..md",
-    "6 - Main Notes",
-    "5 - Templates/Main Note.md",
-    "5 - Templates",
-    "4 - Indexes",
+    "1 - Rough Notes/README.md",
+    "6 - Main Notes/CPA S1. Introduction to Parallel Programming Enviroments..md",
+    "6 - Main Notes/BDA 1.2. The Relational Data Model.md",
+    "6 - Main Notes/BDA 1.1 Relational Databases..md",
+    "3 - Tags/BDA.md",
     "3 - Tags/Relational Database.md",
     "3 - Tags/RDBMS.md",
     "3 - Tags/RA Operators.md",
     "3 - Tags/DBMS.md",
     "3 - Tags/Data Model.md",
-    "3 - Tags/BDA.md",
+    "1 - Rough Notes/Reminders/How far am I on Dabi's tutorial.md",
+    "6 - Main Notes/Untitled.md",
+    "1 - Rough Notes/Organization/TO DO.md",
+    "2 - Source Material/FSO Concepts.md",
+    "TO DO.md",
+    "How far am I on Dabi's tutorial.md",
+    "README.md",
+    "TSR Concepts..md",
+    "AIC 1.1. Concept of Computer Architecture..md",
+    "SIN Concepts..md",
+    "ISW Concepts.md",
+    "ISW C1. Introduction to Software Engineering.md",
+    "Guia docente asignaturas.md",
+    "FSO UT0. Concepto de sistema operativo..md",
+    "FSO Concepts.md",
+    "CPA S1. Introduction to Parallel Programming Enviroments..md",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
     "3 - Tags",
     "2 - Source Material",
     "1 - Rough Notes/Reminders",
