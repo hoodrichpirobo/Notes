@@ -7,5 +7,3 @@ Tags:
 # {{Title}}
 
 ## References
-
-

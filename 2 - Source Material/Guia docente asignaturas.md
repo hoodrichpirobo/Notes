@@ -4,7 +4,7 @@
 
 **ISW**. Hay un examen final con recu, lo que mas puntua es el laboratorio, la nota minima es un 4. Las practicas comienzan el 22 de Septiembre.
 
-**ETC**. Las practicas comienzan el 16 de Septiembre.
+**ETC**. Las practicas comienzan el 17 de Septiembre.
 
 **RED**. Las practicas comienzan el 26 de Septiembre.
 

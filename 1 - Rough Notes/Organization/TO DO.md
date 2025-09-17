@@ -4,10 +4,11 @@
 - [x] Send Mala the headphones for her to decide
 - [x] Send Vipi the fridges for her to decide.
 - [x] Complete Obsidian's tutorials 1
-- [ ] Complete Obsidian's tutorials 2
+- [x] Complete Obsidian's tutorials 2
 - [x] Set up vault on github
 - [x] Set up colors on Obsidian nodes
 - [ ] (5 min) Read the Lab Case available [here](https://poliformat.upv.es/access/content/group/GRA_11555_2025/English%20_Group%20E_/Laboratory/Lab%20Case%20_ManteHos_2025.pdf)
 - [ ] (15 min) Learn the basics of the SCRUM agile methodology (use any resources you find on the Web).
+- [x] Hand in the SCRUM homework on PoliformaT before tomorrow at 8am
 - [ ] Plan an execution plan order for the workload during the entire semester.
 - [ ] There's homework on BDA, Exercise 1.2 from the slides.
