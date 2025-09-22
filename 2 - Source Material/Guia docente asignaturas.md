@@ -12,4 +12,4 @@
 
 **TSR** tiene un profesor muy bueno pero que no se le entiende mucho en clase, afortunadamente hay docencia inversa y en tutorias dice Ruben que es bastante bueno. Hacer muchisimos examenes de los de autoevaluacion de PoliFormat. Las practicas comienzan el 7 de Octubre.
 
-Related: [[AIC Concepts]] [[FSO Concepts]], [[BDA Concepts.]], [[ISW Concepts]],[[CPA Concepts.]], [[TSR Concepts.]], [[SIN Concepts.]]
+Related: [[AIC Concepts]] [[FSO Concepts]], [[BDA Concepts.]], [[ISW Concepts]],[[CPA Concepts.]], [[TSR Concepts.]], [[SIN Concepts.]], [[ETC Concepts]]

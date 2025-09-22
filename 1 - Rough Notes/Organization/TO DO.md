@@ -7,8 +7,13 @@
 - [x] Complete Obsidian's tutorials 2
 - [x] Set up vault on github
 - [x] Set up colors on Obsidian nodes
-- [ ] (5 min) Read the Lab Case available [here](https://poliformat.upv.es/access/content/group/GRA_11555_2025/English%20_Group%20E_/Laboratory/Lab%20Case%20_ManteHos_2025.pdf)
-- [ ] (15 min) Learn the basics of the SCRUM agile methodology (use any resources you find on the Web).
+- [x] Prepare emails for Launchpad, Google Developer Group UPV and CP-UPV draft
+- [x] (5 min) Read the [[ISW Lab Case]] available [here](https://poliformat.upv.es/access/content/group/GRA_11555_2025/English%20_Group%20E_/Laboratory/Lab%20Case%20_ManteHos_2025.pdf)
+- [x] (15 min) Learn the basics of the SCRUM agile methodology (use any resources you find on the Web).
+- [x] - (20 min) chapters 1 & 2 from the book ["Learning DevOps Continuously Deliver Better Software"](https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/Learning%20DevOps%20-%20Continuously%20Deliver%20Better%20Software.pdf)
 - [x] Hand in the SCRUM homework on PoliformaT before tomorrow at 8am
-- [ ] Plan an execution plan order for the workload during the entire semester.
+- [ ] Complete unfullfilled tasks from the [excel sheet](https://upvedues.sharepoint.com/:x:/s/PFT_GRA_11555_2025-IngenieradelsoftwareGIINF/EU-DOTVcm9FGjJEeS65qhpABbBx4wZ79pC3F8R3_GeRfTg?e=md661L)
+- [ ] Complete Seminario 2 on ISW
+- [ ]  Plan an execution plan order for the workload during the entire semester.
+- [ ] Prepare for Observation Exam on TSR
 - [ ] There's homework on BDA, Exercise 1.2 from the slides.

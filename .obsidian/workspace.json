@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c20af87a1864c5f",
+            "id": "f07f9bbe274dfd72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Guia docente asignaturas.md",
+                "file": "6 - Main Notes/ISW Lab Case.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guia docente asignaturas"
+              "title": "ISW Lab Case"
             }
           },
           {
-            "id": "1c74ecdac21d2513",
+            "id": "5d81bd7554d01364",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "TO DO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,34 +181,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c74ecdac21d2513",
+  "active": "f07f9bbe274dfd72",
   "lastOpenFiles": [
+    "1 - Rough Notes/Organization/TO DO.md",
+    "6 - Main Notes/ISW Lab Case.md",
+    "6 - Main Notes/Untitled.md",
+    "3 - Tags/ISW.md",
+    "6 - Main Notes/ISW Scrum and Scrum Master.md",
+    "3 - Tags/Digitalización 2.0 Fabrica Jairo.md",
+    "3 - Tags/Launchpad.md",
+    "3 - Tags/Scrum.md",
+    "1 - Rough Notes/Ideas/Profesores interesantes que dan en el doble grado de Mates e Informatica.md",
+    "1 - Rough Notes/Ideas/Correos de Welcome Meeting.md",
+    "6 - Main Notes/BDA 1.2. The Relational Data Model.md",
+    "6 - Main Notes/BDA 1.1. Relational Databases..md",
+    "2 - Source Material/ETC Concepts.md",
+    "6 - Main Notes/ETC P01. Registros y memoria principal.md",
+    "6 - Main Notes/ETC Tema 1.3 El procesador.md",
+    "3 - Tags/Assembly.md",
+    "2 - Source Material/Guia docente asignaturas.md",
     "6 - Main Notes/TSR Unit 1. Case Study on Wikipedia.md",
     "1 - Rough Notes/Reminders/How far am I on Dabi's tutorial.md",
-    "2 - Source Material/Guia docente asignaturas.md",
     "6 - Main Notes/TSR Unit 1. Introduction.md",
     "3 - Tags/Concurrency.md",
     "6 - Main Notes/ISW C1. Introduction to Software Engineering.md",
-    "1 - Rough Notes/Organization/TO DO.md",
-    "6 - Main Notes/BDA 1.2. The Relational Data Model.md",
-    "1 - Rough Notes/Ideas/Profesores interesantes que dan en el doble grado de Mates e Informatica.md",
     "6 - Main Notes/FSO SUT01. Lenguaje C.md",
     "6 - Main Notes/FSO UT0. Concepto de sistema operativo..md",
     "3 - Tags/CP-UPV.md",
-    "6 - Main Notes/ETC Tema 1.3 El procesador.md",
     "6 - Main Notes/CPA T2. Shared Memory.md",
-    "6 - Main Notes/CPA S1. Introduction to Parallel Programming Enviroments..md",
-    "6 - Main Notes/CPA.md",
-    "6 - Main Notes/AIC 1.2. Performance Analysis (2)..md",
-    "6 - Main Notes/AIC 1.3. Instruction set architecture design.md",
-    "6 - Main Notes/BDA 1.1. Relational Databases..md",
-    "5 - Templates/Main Note.md",
-    "6 - Main Notes/AIC 1.2. Performance Analysis (1)..md",
-    "README.md",
-    "3 - Tags/BDA.md",
-    "1 - Rough Notes/README.md",
-    "3 - Tags/Relational Database.md",
-    "3 - Tags/RDBMS.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
